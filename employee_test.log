@@ -1,0 +1,10 @@
+2025-09-15 21:32:05,268 - ERROR - Invalid first name: Rasan2
+2025-09-15 21:56:05,153 - ERROR - Invalid department code: 'FIII'
+2025-09-15 21:57:14,913 - ERROR - Invalid phone number: '122'
+2025-09-15 22:01:27,167 - ERROR - Invalid phone number: '111'
+2025-09-15 22:02:21,040 - ERROR - Invalid department code: 're'
+2025-09-15 22:03:07,957 - ERROR - Invalid department code: 're'
+2025-09-15 22:03:56,703 - ERROR - Invalid department code: 're'
+2025-09-15 22:05:08,167 - ERROR - Invalid department code: 're'
+2025-09-15 22:06:10,869 - ERROR - Invalid department code: 'REEEEEEE'
+2025-09-15 22:08:11,110 - ERROR - Invalid department code: 're'
